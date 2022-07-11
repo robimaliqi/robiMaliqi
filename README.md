@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 `aboutMe.js`
-```javascript
+```js
 
 let me = {
   name: 'Robi Maliqi',

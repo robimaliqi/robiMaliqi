@@ -53,7 +53,4 @@ let me = {
  <p align='center'>
         <a href='https://twitter.com/RobiMaliqi'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/Twitter.svg' width='5%'> </a>  
         <a href='https://www.linkedin.com/in/robimaliqi/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
-        <a href='https://angel.co/u/julia-furst-morgado'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/AngelList.svg' width='5%'>   
-        <a href='https://julia.hashnode.dev/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/Hashnode.svg' width='5%'>  
-        <a href='https://twitch.tv/juliafmorgado'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/Twitch.svg' width='5%'> </a> 
  </p>

@@ -1,21 +1,21 @@
 ### Hi there 👋
 
 `aboutMe.js`
-```js
 
+```js
 let me = {
-  name: 'Robi Maliqi',
-  job: 'Full-Stack Developer',
-  dob: newDate('01.07.1993'),
-  country: 'United Kingdom',
-  
-  url: 'in-progress',
-  languages: [ 'English', 'Albanian', 'Spanish' ],
-  codingLanguages: [ 'Ruby', 'JavaScript' ],
-  
+  name: "Robi Maliqi",
+  job: "Full-Stack Developer",
+  dob: newDate("01.07.1993"),
+  country: "United Kingdom",
+
+  url: "in-progress",
+  languages: ["English", "Albanian", "Spanish"],
+  codingLanguages: ["Ruby", "JavaScript"],
+
   learningNewSkills: true,
-  hobbies: [ 'Reading', 'Travelling', 'Learning' ]
-  }
+  hobbies: ["Reading", "Travelling", "Learning"],
+};
 ```
 
 <h2 align='center'>Technologies</h2>
@@ -23,7 +23,7 @@ let me = {
   <tbody>
     <td valign='top' width='33.33%>
       <h3 align='center'>Frontend<h3>   
-      <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/HTML.svg' width='20%'>
+      <img src='HTML.png' width='20%'>
       <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/CSS.svg' width='20%'>
       <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/JavaScript.svg' width='20%'>
       <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/React.svg' width='20%'>                                 </td>

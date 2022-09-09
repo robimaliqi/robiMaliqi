@@ -51,7 +51,6 @@ let me = {
 </td>
   </tbody>
  </table>
- <br>
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>
         <a href='https://twitter.com/RobiMaliqi'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Twitter.png' width='5%'> </a>  

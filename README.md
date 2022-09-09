@@ -51,7 +51,6 @@ let me = {
 </td>
   </tbody>
  </table>
-<br>
  <br>
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>

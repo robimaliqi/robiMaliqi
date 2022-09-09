@@ -23,7 +23,7 @@ let me = {
   <tbody>
     <td valign='top' width='33.33%>
       <h3 align='center'>Frontend<h3>   
-      <img src='/images/HTML.png' width='20%'>
+      <img src='./images/HTML.png' width='20%'>
       <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/CSS.svg' width='20%'>
       <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/JavaScript.svg' width='20%'>
       <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/React.svg' width='20%'>                                 </td>

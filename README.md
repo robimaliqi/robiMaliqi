@@ -26,7 +26,10 @@ let me = {
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/HTML.png' width='20%'>
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/900a0a6fec956d517532c4601af87fd779742ae2/Images/CSS.png' width='20%'>
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/JavaScript.png' width='20%'>
-      <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/React.png' width='20%'>                                 </td>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/React.png' width='20%'>                                
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/ade438d50b95695a9e346b41ed10dfa9cee4be2e/Images/Tailwind-css.png' width='20%'>                                
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/ade438d50b95695a9e346b41ed10dfa9cee4be2e/Images/Redux.png' width='20%'>                                
+</td>
                         
    <td valign='top' width='33.33%>
       <h3 align='center'>Backend<h3>
@@ -45,7 +48,7 @@ let me = {
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Photoshop.png' width='20%'>   
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Illustrator.png' width='20%'>   
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/PremierePro.png' width='20%'>   
- </td>
+</td>
   </tbody>
  </table>
 <br>

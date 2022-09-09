@@ -32,6 +32,8 @@ let me = {
       <h3 align='center'>Backend<h3>
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/NodeJS.png' width='20%'>   
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Express.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/03e562d29aff5b70ec1e56a26c977fafea52d107/Images/RUBY.png' width='20%'>
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/03e562d29aff5b70ec1e56a26c977fafea52d107/Images/RAILS.png' width='20%'>
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/MongoDB.png' width='20%'>   
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/OOP.png' width='20%'>   
         <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/PostgreSQL.png' width='20%'>

@@ -23,27 +23,26 @@ let me = {
   <tbody>
     <td valign='top' width='33.33%>
       <h3 align='center'>Frontend<h3>   
-      <img src='HTML.png' width='20%'>
-      <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/CSS.svg' width='20%'>
-      <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/JavaScript.svg' width='20%'>
-      <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/React.svg' width='20%'>                                 </td>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/HTML.svg' width='20%'>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/CSS.svg' width='20%'>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/JavaScript.svg' width='20%'>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/React.svg' width='20%'>                                 </td>
                         
    <td valign='top' width='33.33%>
       <h3 align='center'>Backend<h3>
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/NodeJS.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/Express.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/MongoDB.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/OOP.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/PostgreSQL.svg' width='20%'>
-<!--         <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/Angular.svg' width='20%'>   -->
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/Git.svg' width='20%'>
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/NodeJS.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Express.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/MongoDB.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/OOP.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/PostgreSQL.svg' width='20%'>
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Git.svg' width='20%'>
 </td>
    <td valign='top' width='33.33%>
       <h3 align='center'>Other softwares<h3>
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/VSCode.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/Photoshop.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/Illustrator.svg' width='20%'>   
-        <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Tech%20Skills/PremierePro.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/VSCode.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Photoshop.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Illustrator.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/PremierePro.svg' width='20%'>   
  </td>
   </tbody>
  </table>

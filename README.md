@@ -23,26 +23,26 @@ let me = {
   <tbody>
     <td valign='top' width='33.33%>
       <h3 align='center'>Frontend<h3>   
-      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/HTML.svg' width='20%'>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/HTML.png' width='20%'>
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/900a0a6fec956d517532c4601af87fd779742ae2/Images/CSS.png' width='20%'>
-      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/JavaScript.svg' width='20%'>
-      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/React.svg' width='20%'>                                 </td>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/JavaScript.png' width='20%'>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/React.png' width='20%'>                                 </td>
                         
    <td valign='top' width='33.33%>
       <h3 align='center'>Backend<h3>
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/NodeJS.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Express.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/MongoDB.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/OOP.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/PostgreSQL.svg' width='20%'>
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Git.svg' width='20%'>
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/NodeJS.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Express.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/MongoDB.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/OOP.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/PostgreSQL.png' width='20%'>
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Git.png' width='20%'>
 </td>
    <td valign='top' width='33.33%>
       <h3 align='center'>Other softwares<h3>
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/VSCode.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Photoshop.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Illustrator.svg' width='20%'>   
-        <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/PremierePro.svg' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/VSCode.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Photoshop.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Illustrator.png' width='20%'>   
+        <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/PremierePro.png' width='20%'>   
  </td>
   </tbody>
  </table>
@@ -50,6 +50,6 @@ let me = {
  <br>
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>
-        <a href='https://twitter.com/RobiMaliqi'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Twitter.png' width='5%'> </a>  
-        <a href='https://www.linkedin.com/in/robimaliqi/'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/LinkedIn.png' width='5%'>   
+        <a href='https://twitter.com/RobiMaliqi'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/Twitter.png' width='5%'> </a>  
+        <a href='https://www.linkedin.com/in/robimaliqi/'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/2ae11e63a64add5d504a45ffe5632caa152ea66c/Images/LinkedIn.png' width='5%'>   
  </p>

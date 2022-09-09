@@ -24,7 +24,7 @@ let me = {
     <td valign='top' width='33.33%>
       <h3 align='center'>Frontend<h3>   
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/HTML.svg' width='20%'>
-      <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/CSS.svg' width='20%'>
+      <img src='https://github.com/robimaliqi/robiMaliqi/blob/900a0a6fec956d517532c4601af87fd779742ae2/Images/CSS.png' width='20%'>
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/JavaScript.svg' width='20%'>
       <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/React.svg' width='20%'>                                 </td>
                         
@@ -50,6 +50,6 @@ let me = {
  <br>
 <h2 align='center'>Let's Connect!</h2>
  <p align='center'>
-        <a href='https://twitter.com/RobiMaliqi'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/Twitter.svg' width='5%'> </a>  
-        <a href='https://www.linkedin.com/in/robimaliqi/'> <img src='https://github.com/juliafmorgado/readme-assets/blob/main/GitHub%20Profile/Social%20Media%20Icons/LinkedIn.svg' width='5%'>   
+        <a href='https://twitter.com/RobiMaliqi'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/Twitter.png' width='5%'> </a>  
+        <a href='https://www.linkedin.com/in/robimaliqi/'> <img src='https://github.com/robimaliqi/robiMaliqi/blob/main/Images/LinkedIn.png' width='5%'>   
  </p>

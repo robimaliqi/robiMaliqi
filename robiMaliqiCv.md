@@ -90,11 +90,13 @@ I thrive on new challenges and highly motivated to achieve the very best in all 
         </ul>
       </td>
       <td>
+       <ul>
       <li>Notion</li>
       <li>Canva</li>
       <li>Slack</li>
       <li>Zoom</li>
       <li>Figma</li>
+      </ul>
       </td>
     </tr>
   </tbody>

@@ -177,11 +177,11 @@ During my time at my previous role, I was responsible for leading a team of driv
 
 **The University of West London** - Business Management with Finance 2:1
 
+<div align="right">2012 - 2016</div>
+
 - Fundamentals of planning and breaking down projects.
 - Working to strict deadlines within a team.
 - Insights into the backbone of business and the different factors that affect companies.
-
-<div align="right">2012 - 2016</div>
 
 **Windsor College** - A - C Alevels: Business, Accounts, English Land and Lit
 

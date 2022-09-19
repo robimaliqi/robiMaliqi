@@ -9,8 +9,8 @@
     <a href="#techskills">Tech Skills</a> | 
     <a href="#projects">Projects</a> |
     <a href="#skills">Skills</a> |
-    <a href="#education">Education</a> |
     <a href="#work-experience">Work Experience</a> |
+    <a href="#education">Education</a> |
     <a href="#hobbies">Hobbies</a> 
  </div>
 

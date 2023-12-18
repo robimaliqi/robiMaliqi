@@ -5,7 +5,7 @@
 ```ruby
 require 'job'
 
-me = {
+me = User.create(
   name: "Robi Maliqi",
   job: "Full-Stack Developer",
   dob: Date.new(1993, 7, 1),
@@ -23,5 +23,5 @@ me = {
   hobbies: [
     "Hiking", "Chasing sunsets/sunrises", "Chess"
   ]
-}
+)
 

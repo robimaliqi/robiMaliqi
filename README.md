@@ -21,7 +21,6 @@ me = {
 
   learning_new_skills: true,
   hobbies: [
-    "Hiking", "Chasing sunsets/surises", "Chess"
+    "Hiking", "Chasing sunsets/sunrises", "Chess"
   ]
 }
-```

@@ -13,7 +13,7 @@ me = {
 
   url:
 ```
-  "[www.robicodes.com](https://www.robicodes.com/)",
+  [www.robicodes.com](https://www.robicodes.com/),
   ```ruby
   languages: [
     "English", "Albanian", "Spanish"

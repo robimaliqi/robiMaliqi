@@ -12,16 +12,20 @@ me = User.create(
   country: "United Kingdom",
 
   url: "https://www.robicodes.com/",
-  languages: [
-    "English", "Albanian", "Spanish"
-  ],
   coding_languages: [
-    "Ruby", "JavaScript", "Ruby on Rails", "Express", "React", "Typescript"
+    "Ruby",
+    "JavaScript",
+    "Ruby on Rails",
+    "Express",
+    "React",
+    "Typescript"
   ],
 
   learning_new_skills: true,
   hobbies: [
-    "Hiking", "Chasing sunsets/sunrises", "Chess"
+    "Hiking",
+    "Chasing sunsets/sunrises",
+    "Chess"
   ]
 )
 

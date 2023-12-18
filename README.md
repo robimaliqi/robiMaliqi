@@ -11,7 +11,7 @@ me = {
   dob: Date.new(1993, 7, 1),
   country: "United Kingdom",
 
-  url: <a href="https://www.robicodes.com/" target="_blank">www.robicodes.com</a>,
+  url: "https://www.robicodes.com/",
   languages: [
     "English", "Albanian", "Spanish"
   ],
@@ -24,3 +24,4 @@ me = {
     "Hiking", "Chasing sunsets/sunrises", "Chess"
   ]
 }
+

@@ -11,11 +11,17 @@ me = {
   dob: Date.new(1993, 7, 1),
   country: "United Kingdom",
 
-  url: "in-progress",
-  languages: ["English", "Albanian", "Spanish"],
-  coding_languages: ["Ruby", "JavaScript"],
+  url: "https://www.robicodes.com/",
+  languages: [
+    "English", "Albanian", "Spanish"
+  ],
+  coding_languages: [
+    "Ruby", "JavaScript", "Ruby on Rails", "Express", "React", "Typescript"
+  ],
 
   learning_new_skills: true,
-  hobbies: ["Hiking", "Chasing sunsets/surises", "Chess"]
+  hobbies: [
+    "Hiking", "Chasing sunsets/surises", "Chess"
+  ]
 }
 ```
